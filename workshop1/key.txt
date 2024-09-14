@@ -1,0 +1,2 @@
+channel secret : 8da444a80397eaa7e358d515e3fadc1c
+chanel access token: FgzWVyx0A998BabWVhmFABdJLraIZOMteOoPFeesQ+dyLt+CjkqBrfD30mxZ3Pv+bwcsw6fMlTSJbdQMVWoTErdfeX4wW4X/KkYi/OwdPxkc3ow4KqYndZbPufdi0E2yNH+hVsbq9R2/btEP124jLAdB04t89/1O/w1cDnyilFU=

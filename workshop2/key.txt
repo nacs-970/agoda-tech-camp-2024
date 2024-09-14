@@ -1,0 +1,7 @@
+member:
+channel secret: ebf700187c97ff6530c69df1f0c46233
+channel acesss token: gRtiCbkCnkE28UK3XYT97p/HWwHuhNo8rDML8bAupgmvFFGoVP3LwJq46hZ6wkZT1G9babqj3hj5H5J6R0w/yElOJCs3uAI/vS/6iJCixu3OFXwpBKKAnnlzIfXVwBQ+5Rf+YZMFmGgTekpAJ1HMVAdB04t89/1O/w1cDnyilFU=
+
+merchant:
+channel secret: 90da80b90ec3b3fbde890227f88d4b93
+channel acesss token: dr0ix+JCRkOvBf5jhDzywiPDKy98ipBoWNUzb6XFBcEsLHNDt7jRo2AXqa4RZVZ4W2C6hhsTtLKjnBhPvyXC+K+k/d918aY4oM4Siu6wiyvmjM9xngPZAtYfh5x1RcGksgUTPLF2cm5blSvdBcachQdB04t89/1O/w1cDnyilFU=
